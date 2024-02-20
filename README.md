@@ -1,9 +1,16 @@
 # Tornado-CLI
 
-Command line tool to interact with [Tornado Cash](https://tornadocash.eth.link).
+Command line tool to interact with [Tornado Cash](https://tornadoeth.cash).
 
 ### Warning!
 Current cli version doesn't support [Anonymity Mining](https://tornado-cash.medium.com/tornado-cash-governance-proposal-a55c5c7d0703)
+
+### RPC
+
+[Tornado RPC](https://rpc.tornadoeth.cash)
+
+[Chainlist](https://chainlist.org)
+
 
 ### How to install tornado cli
 Download and install [node.js](https://nodejs.org/en/download/).
@@ -19,12 +26,12 @@ You also need to install C++ build tools in order to do 'npm install', for more 
 If you have git installed on your system, clone the master branch.
 
 ```bash
-$ git clone https://github.com/tornadocash/tornado-cli
+$ git clone https://github.com/tornadocashdev/tornado-cli
 ```
 
 Or, download the archive file from github
 
-https://github.com/tornadocash/tornado-cli/archive/refs/heads/master.zip
+https://github.com/tornadocashdev/tornado-cli/archive/refs/heads/master.zip
 
 After downloading or cloning the repository, you must install necessary libraries using the following command.
 
